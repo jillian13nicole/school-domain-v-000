@@ -3,6 +3,7 @@ class School
 end
 
 def initialize(name)
+  @name =
 
 school.roster
 
