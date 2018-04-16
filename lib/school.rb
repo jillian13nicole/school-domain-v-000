@@ -4,7 +4,8 @@ end
 
 def initialize(name)
   @name = name
-  @roster =
+  @roster = {}
+  
 
 school.roster
 
